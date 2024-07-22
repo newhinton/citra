@@ -472,6 +472,7 @@
     <string name="device_orientation_description">How should your games be displayed?</string>
     <string name="device_orientation_system">Follow System Setting</string>
     <string name="device_orientation_landscape">Landscape</string>
+    <string name="device_orientation_landscape_reverse">Landscape Reverse</string>
     <string name="device_orientation_portrait">Portrait</string>
     <string name="device_orientation_auto">Automatic</string>
 
